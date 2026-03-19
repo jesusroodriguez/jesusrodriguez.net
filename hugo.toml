@@ -1,0 +1,44 @@
+baseURL = "https://jesusrodriguez.net"
+title = "Jesús Rodríguez"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowToc = false
+
+[params.profileMode]
+  enabled = false
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jesusroodriguez/"
+
+[params.homeInfoParams]
+  Title = "Jesús Rodríguez"
+  Content = "Escribo sobre lo que aprendo en mi trabajo y laboratorios: Bases de datos, Alta Disponibilidad, Cluster, Backups, Cloud. La información que aparece en este blog es opinión propia, no sustituye la documentación oficial."
+
+[[menu.main]]
+  identifier = "about"
+  name = "Sobre mi"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Indice"
+  url = "/archives/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
