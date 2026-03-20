@@ -1,15 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Jesús Rodríguez</title><link>https://jesusrodriguez.net/</link><description>Recent content on Jesús Rodríguez</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jesusrodriguez.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Mi primer post</title><link>https://jesusrodriguez.net/posts/mi-primer-post/</link><pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate><guid>https://jesusrodriguez.net/posts/mi-primer-post/</guid><description>&lt;p&gt;Soy Jesús Rodríguez, Senior Advanced Services Engineer en Oracle, especializado en
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jesús Rodríguez</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jesús Rodríguez</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAA Series - 0</title>
+      <link>http://localhost:1313/posts/maa-series-0/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maa-series-0/</guid>
+      <description>&lt;p&gt;En Oracle existen unas arquitecturas de referencia que se conoce como &lt;strong&gt;Maximum Availability Architecture (MAA)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Con las configuraciones y recomendaciones que se proporcionan en las diferentes arquitecturas,  Oracle proporciona los niveles de &lt;strong&gt;Alta Disponibilidad&lt;/strong&gt; necesarios para el cumplimiento del servicio según el nivel deseado.&lt;/p&gt;
+&lt;p&gt;Dentro de las arquitecturas de referencia tendremos diferentes niveles para cubrir  alta disponibilidad, protección de datos y recuperación ante desastres.&lt;/p&gt;
+&lt;p&gt;Las arquitecturas de referencia son las siguientes: Bronze, Silver, Gold y Platinum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mi primer post</title>
+      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
+      <description>&lt;p&gt;Soy Jesús Rodríguez, Senior Advanced Services Engineer en Oracle, especializado en
 bases de datos Oracle, Alta Disponibilidad y GoldenGate.&lt;/p&gt;
 &lt;p&gt;Mi trabajo del día a día gira en torno a ayudar a clientes a diseñar y mantener
 arquitecturas de base de datos robustas: replicación, failover, recuperación ante
 desastres y todo lo que implica que los datos estén siempre disponibles.&lt;/p&gt;
-&lt;h2 id="por-qué-este-blog"&gt;Por qué este blog&lt;/h2&gt;
+&lt;h2 id=&#34;por-qué-este-blog&#34;&gt;Por qué este blog&lt;/h2&gt;
 &lt;p&gt;Aprendo mejor cuando escribo. Este blog es mi forma de documentar lo que voy
-descubriendo en el trabajo, en mis laboratorios y en los proyectos personales.&lt;/p&gt;</description></item><item><title>Sobre mí</title><link>https://jesusrodriguez.net/about/</link><pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate><guid>https://jesusrodriguez.net/about/</guid><description>&lt;p&gt;Soy Jesús Rodríguez, Senior Advanced Services Engineer en Oracle, especializado en
+descubriendo en el trabajo, en mis laboratorios y en los proyectos personales.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Soy Jesús Rodríguez, Senior Advanced Services Engineer en Oracle, especializado en
 bases de datos Oracle, Alta Disponibilidad y GoldenGate.&lt;/p&gt;
 &lt;p&gt;Mi trabajo del día a día gira en torno a ayudar a clientes a diseñar y mantener
 arquitecturas de base de datos robustas: replicación, failover, recuperación ante
 desastres y todo lo que implica que los datos estén siempre disponibles.&lt;/p&gt;
-&lt;h2 id="por-qué-este-blog"&gt;Por qué este blog&lt;/h2&gt;
+&lt;h2 id=&#34;por-qué-este-blog&#34;&gt;Por qué este blog&lt;/h2&gt;
 &lt;p&gt;Aprendo mejor cuando escribo. Este blog es mi forma de documentar lo que voy
-descubriendo en el trabajo, en mis laboratorios y en los proyectos personales.&lt;/p&gt;</description></item></channel></rss>
+descubriendo en el trabajo, en mis laboratorios y en los proyectos personales.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
