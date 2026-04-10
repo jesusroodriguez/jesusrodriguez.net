@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>MAA on Jesús Rodríguez</title>
-    <link>http://localhost:1313/tags/maa/</link>
-    <description>Recent content in MAA on Jesús Rodríguez</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/maa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MAA Series - 0</title>
-      <link>http://localhost:1313/posts/maa-series-0/</link>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maa-series-0/</guid>
-      <description>&lt;p&gt;En Oracle existen unas arquitecturas de referencia que se conoce como &lt;strong&gt;Maximum Availability Architecture (MAA)&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Con las configuraciones y recomendaciones que se proporcionan en las diferentes arquitecturas,  Oracle proporciona los niveles de &lt;strong&gt;Alta Disponibilidad&lt;/strong&gt; necesarios para el cumplimiento del servicio según el nivel deseado.&lt;/p&gt;
-&lt;p&gt;Dentro de las arquitecturas de referencia tendremos diferentes niveles para cubrir  alta disponibilidad, protección de datos y recuperación ante desastres.&lt;/p&gt;
-&lt;p&gt;Las arquitecturas de referencia son las siguientes: Bronze, Silver, Gold y Platinum.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MAA on Jesús Rodríguez</title><link>https://jesusrodriguez.net/tags/maa/</link><description>Recent content in MAA on Jesús Rodríguez</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jesusrodriguez.net/tags/maa/index.xml" rel="self" type="application/rss+xml"/><item><title>MAA Series 01 - Fundamentos de arquitectura Bronce</title><link>https://jesusrodriguez.net/posts/fundamentos-bronze-maa/</link><pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate><guid>https://jesusrodriguez.net/posts/fundamentos-bronze-maa/</guid><description>&lt;h2 id="introducción"&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;Es la arquitectura de entrada para la alta disponibilidad en cuanto a bases de datos Oracle.&lt;/p&gt;
+&lt;p&gt;Tiene el servicio básico de base de datos y el menor coste posible.&lt;/p&gt;
+&lt;p&gt;Se suelte utilizar en entornos de pruebas, desarrollo y entornos no críticos.&lt;/p&gt;
+&lt;p&gt;Para mi es la base de todo lo demás. Hay que entender como funciona toda la tecnología que hay disponible en este nivel para poder utilizarla de la mejor manera.&lt;/p&gt;</description></item><item><title>MAA Series - 0</title><link>https://jesusrodriguez.net/posts/maa-series-0/</link><pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate><guid>https://jesusrodriguez.net/posts/maa-series-0/</guid><description>&lt;p&gt;En Oracle existen unas arquitecturas de referencia que se conoce como &lt;strong&gt;Maximum Availability Architecture (MAA)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Con las configuraciones y recomendaciones que se proporcionan en las diferentes arquitecturas, Oracle proporciona los niveles de &lt;strong&gt;Alta Disponibilidad&lt;/strong&gt; necesarios para el cumplimiento del servicio según el nivel deseado.&lt;/p&gt;
+&lt;p&gt;Dentro de las arquitecturas de referencia tendremos diferentes niveles para cubrir alta disponibilidad, protección de datos y recuperación ante desastres.&lt;/p&gt;
+&lt;p&gt;Las arquitecturas de referencia son las siguientes: Bronze, Silver, Gold y Platinum.&lt;/p&gt;</description></item></channel></rss>

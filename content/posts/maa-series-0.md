@@ -1,6 +1,6 @@
 ---
 title: "MAA Series - 0"
-date: 2026-03-25
+date: 2026-03-22
 draft: false
 tags: ["MAA"]
 ---
