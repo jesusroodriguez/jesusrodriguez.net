@@ -7,8 +7,6 @@ tags:
 ---
 
 ---
-## Solución timemachine cuando no puedes conectar usb externos
-
 Tengo la manía de hacer backup de mis ficheros, sobre todo aquello que me ha costado ir creando con el paso del tiempo.
 
 En macOS utilizaba timemachine, y digo utilizaba, por que hace unos meses por políticas de seguridad dejé de tener permitido conectar usb externos al ordenador.
@@ -17,7 +15,7 @@ No he dejado de hacer backups, pero no de la manera en la que los hacía.
 
 He pasado por varias etapas y os voy a contar como he llegado a la definitiva.
 
-## La primera etapa
+### La primera etapa
 
 Lo que se me ocurrió en este momento fue hacer un rsync desde mis mac a un directorio de mi otro portátil. Esto parecía guay.
 
@@ -25,7 +23,7 @@ Me sacó del apuro, tenía mis datos en dos dispositivos y desde mi portátil ut
 
 Lo que no me convencía de este método es que tenía la necesidad de tener ambos ordenadores encendidos para poder hacer la copia. Necesitaba una logística que me quitaba tiempo para hacer un simple backup.
 
-## La segunda etapa
+### La segunda etapa
 Esta etapa llega mientras sigo aprendiendo con cursos, formaciones de Linux, protocolos, etc.
 
 Ya conocía el protocolo NFS, pero no lo había utilizado.
@@ -42,7 +40,7 @@ Me he creado unos alias en ambos ordenadores que hacen un "push" y un "pull" del
 
 Cuando enciendo el otro portátil, hago `pullobs`.
 
-## La tercera etapa
+### La tercera etapa
 La última que he añadido a mi estrategia de backups. 
 
 Hablo de la utilización del protocolo SMB para compartir almacenamiento en red. Una vez más, la curiosidad y el querer seguir aprendiendo me ha permitido llegar a esta solución.
