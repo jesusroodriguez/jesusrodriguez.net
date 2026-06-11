@@ -401,4 +401,5 @@ Ser DBA es cosa del pasado.
 DBA + SRE = DBRE
 
 
-
+---
+*Esto es un blog personal con carácter informativo. Puede contener errores.*

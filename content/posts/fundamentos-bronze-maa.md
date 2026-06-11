@@ -52,7 +52,7 @@ Opcionalmente se pueden utilizar las siguientes características:
 ![Bronze architecture MAA](/images/maa_bronze_architecture.png)
 
 ---
-*PD: Me gustaría dejar claro que todo lo que publico en este blog es mi propia opinión, nada de lo que comparto sustituye la documentación oficial.*
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 
 Enlaces de interés:
 https://blogs.oracle.com/maa/](https://blogs.oracle.com/maa/)

@@ -167,7 +167,7 @@ Y desde este panel web voy a crear y administrar el resto de VMs para montar los
 He tenido problemas para acceder con FQDN al panel web.  Estaba utilizando *pihole* y *nginx*. La solución ha sido utilizar solamente pihole para redirigir directamente a la máquina de OLVM.
 
 ---
-*PD: Me gustaría dejar claro que todo lo que publico en este blog es mi propia opinión, nada de lo que comparto sustituye la documentación oficial.*
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 
 Enlaces de interés:
 https://blogs.oracle.com/maa/](https://blogs.oracle.com/maa/)

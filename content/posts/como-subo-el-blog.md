@@ -146,4 +146,4 @@ Ya solo falta entrar en la web y ver el nuevo post.
 
 ---
 
-*Las opiniones y contenidos de este blog son míos y no representan a Oracle.*
+*Esto es un blog personal con carácter informativo. Puede contener errores.*

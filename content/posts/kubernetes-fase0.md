@@ -299,6 +299,5 @@ En este post he conseguido montar dos VMs utilizando cloud-init. Estas dos VMs s
 
 ---
 
-*Las opiniones y contenidos de este blog son míos y no representan a Oracle.*
-
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 

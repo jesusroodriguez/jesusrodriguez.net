@@ -190,6 +190,5 @@ Os espero en el siguiente post.
 
 ---
 
-*Las opiniones y contenidos de este blog son míos y no representan a Oracle.*
-
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 

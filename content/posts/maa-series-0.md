@@ -37,6 +37,6 @@ Voy a escribir las mejores prácticas para conseguir los distintos tipos de arqu
 Algunas de las tecnologías de las que hablaré en esta serie: ASM, GRID, RAC, Dataguard, Goldengate, Oracle database, RMAN, OEM, Flashback...
 
 ---
-*PD: Me gustaría dejar claro que todo lo que publico en este blog es mi propia opinión, nada de lo que comparto sustituye la documentación oficial.*
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 
 Enlaces de interés: [https://blogs.oracle.com/maa/](https://blogs.oracle.com/maa/)

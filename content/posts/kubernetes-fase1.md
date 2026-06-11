@@ -128,6 +128,5 @@ pvesh create /cluster/firewall/rules --type in --action ACCEPT --proto tcp --dpo
 
 ---
 
-*Las opiniones y contenidos de este blog son míos y no representan a Oracle.*
-
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 

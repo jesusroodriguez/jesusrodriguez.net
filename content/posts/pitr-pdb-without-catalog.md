@@ -206,6 +206,5 @@ Con esta prueba de concepto he conseguido restaurar una única pdb de una cdb co
 
 ---
 
-*Las opiniones y contenidos de este blog son míos y no representan a Oracle.*
-
+*Esto es un blog personal con carácter informativo. Puede contener errores.*
 
