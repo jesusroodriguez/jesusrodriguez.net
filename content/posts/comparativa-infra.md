@@ -1,5 +1,5 @@
 ---
-title: Oracle a fondo: qué plataforma de infraestructura elegir según tu caso de uso
+title: Oracle a fondo, qué plataforma de infraestructura elegir según tu caso de uso
 date: 2026-06-14
 draft: false
 tags:
